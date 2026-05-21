@@ -1,4 +1,4 @@
-# Files Tech
+# files tech
 
 **Open source mobile apps — privacy first, Apache 2.0.**
 
